@@ -10,5 +10,6 @@
 
 
 ## 配置 Deepseek API
+由于api变更需要更改一下URL，变更如下。
+<img width="946" alt="image" src="https://github.com/deepseek-ai/awesome-deepseek-integration/assets/48347974/0221cbff-c90e-4c2a-a1b2-55d1062f737b">
 
-![image](https://github.com/deepseek-ai/awesome-deepseek-integration/assets/59196087/66d84b17-b420-484a-b814-122813491fd9)
